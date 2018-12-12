@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Validate the ability to update existing records on the system</description>
+   <name>TC05_Update My Account_Customer Info</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>21bd417b-b057-4ce1-bf80-a6a3d505ab03</testCaseGuid>
+</TestCaseEntity>

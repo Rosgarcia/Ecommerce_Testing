@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- purchase an item as a New User</description>
+   <name>TC03_Purchase an item as a New User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>24376038-7728-412f-8323-8fade030a7a2</testCaseGuid>
+   <variable>
+      <defaultValue>'Rosella'</defaultValue>
+      <description></description>
+      <id>fd4ad337-5608-48e0-906f-d12842271682</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Garcia'</defaultValue>
+      <description></description>
+      <id>e133e111-95cf-43a9-80c6-2dfba592fdf1</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>'for.testing1@gmail.com'</defaultValue>
+      <description></description>
+      <id>a6dbe384-a09d-45ae-b65e-a35714e03aea</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Mon$$123'</defaultValue>
+      <description></description>
+      <id>425521af-a078-4df7-9009-956cc65ad3dc</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

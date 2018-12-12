@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Validaye Payment as Check or Money Order</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc3e903e-f33f-44aa-acd4-8ff4e8abdd15</testCaseGuid>
+</TestCaseEntity>

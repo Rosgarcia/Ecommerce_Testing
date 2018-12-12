@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Double the quantity of the same item from the cart
+- Shopping cart should be updated includingthe quantity and the  total price of the item</description>
+   <name>TC02_Validate the ability to add or increase the quantity of same item on the cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>47e10cb6-c9d9-4764-aefb-e05a2abc93f6</testCaseGuid>
+</TestCaseEntity>

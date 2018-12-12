@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Remove items from the shopping cart
+- the cart should be updated showing the remaining items in the cart, Updated quantity and price should be populated and updated correctly</description>
+   <name>TC04_Remove some items from the cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>caf3dcea-8591-4e94-b6e3-783f43d964cd</testCaseGuid>
+</TestCaseEntity>

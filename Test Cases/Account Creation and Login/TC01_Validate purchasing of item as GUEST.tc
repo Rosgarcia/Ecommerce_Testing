@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Purchase an item as a guest 
+– If the site permits, Guest can purchase an item without having to register a new account</description>
+   <name>TC01_Validate purchasing of item as GUEST</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>41bfed9c-5b02-45b9-8389-25f564643580</testCaseGuid>
+</TestCaseEntity>

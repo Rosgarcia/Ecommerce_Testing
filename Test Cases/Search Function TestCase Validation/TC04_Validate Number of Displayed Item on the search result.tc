@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_Validate Number of Displayed Item on the search result</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae540416-af61-41f5-aa73-db6af8bc28fd</testCaseGuid>
+</TestCaseEntity>

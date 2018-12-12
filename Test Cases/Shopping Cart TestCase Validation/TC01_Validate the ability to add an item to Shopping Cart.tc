@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Add an item to the cart 
+-  Shopping cart should be updated with the selected item with correct item details (i.e. item name, image, quantity and price)</description>
+   <name>TC01_Validate the ability to add an item to Shopping Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0180f91d-e54c-414f-88c1-e49007d37aca</testCaseGuid>
+</TestCaseEntity>

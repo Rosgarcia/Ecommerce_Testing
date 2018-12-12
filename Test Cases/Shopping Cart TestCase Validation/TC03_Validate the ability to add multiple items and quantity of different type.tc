@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>- Add multiple items and quantity of different type
+- All items selected should be selected per category (item type)</description>
+   <name>TC03_Validate the ability to add multiple items and quantity of different type</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f8f8604-739f-47c1-9794-bd585f61a53c</testCaseGuid>
+</TestCaseEntity>
